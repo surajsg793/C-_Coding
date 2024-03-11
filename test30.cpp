@@ -9,7 +9,7 @@ int main(){
         for(int j = 1; j<=n; j++){
             cout<<ch<<" ";
             if(ch <'Z'){
-            ch++;
+                ch++;
             }
             else{
                 ch = 'A';
